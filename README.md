@@ -2,7 +2,7 @@
 
   <img width="851" height="480" alt="Image" src="https://github.com/user-attachments/assets/92c0338a-0352-4dc3-a89f-66bda2f20726" />
 
-This project presents a comprehensive retail analysis for **BB Store's - a fashion retailer located in the central of Ho Chi Minh City**. In recent periods, the store has experienced growth challenges due to limited leadership direction and a lack of innovative strategies. These challenges have raised critical questions around revenue performance and product strategy.
+This project presents a comprehensive retail analysis for **BB Store's - a fashion merchandiser located in the central of Ho Chi Minh City**. In recent periods, the store has experienced growth challenges due to limited leadership direction and a lack of innovative strategies. These challenges have raised critical questions around revenue performance and product strategy.
 
 As a Data Analyst, my objective is to assess the store’s current business performance, evaluate product-related factors and customer conversion rates, and provide data-driven insights. The findings will support strategic decision-making for stakeholders and guide the development of a growth plan for the brand in the **Offline retail** segment.
 
