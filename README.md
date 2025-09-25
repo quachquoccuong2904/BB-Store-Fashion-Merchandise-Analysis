@@ -1,6 +1,6 @@
 ## 1. Introduction
 
-  <img width="851" height="480" alt="Image" src="https://github.com/user-attachments/assets/92c0338a-0352-4dc3-a89f-66bda2f20726" />
+  <img width="1365" height="619" alt="Image" src="https://github.com/user-attachments/assets/7e0c041c-ae08-46d9-a5ac-5295cd694d49" />
 
 This project presents a comprehensive retail analysis for **BB Store's - a fashion merchandiser located in the central of Ho Chi Minh City**. In recent periods, the store has experienced growth challenges due to limited leadership direction and a lack of innovative strategies. These challenges have raised critical questions around revenue performance and product strategy.
 
